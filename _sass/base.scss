@@ -59,6 +59,10 @@ header {
   margin: 0 0 40px 0;
 }
 
+header .header-title {
+   display: flex;
+}
+
 .header-links {
   text-align: center;
 }
