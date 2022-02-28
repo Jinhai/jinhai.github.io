@@ -65,6 +65,11 @@ header .header-title {
    align-items: center;
 }
 
+header .header-title .separator {
+   border-right: 1px solid $header;
+   margin: 0 8px;
+}
+
 header .header-title h2 {
    margin: 0;
 }
