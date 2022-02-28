@@ -19,6 +19,9 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh);
 }
 
 /* General & 'Reset' Stuff */
