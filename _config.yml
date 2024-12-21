@@ -29,3 +29,4 @@ plugins:
 # Custom variables
 owner : "Jinhai Lin"
 year : "2022"
+excerpt_separator: "<!-- more -->"
