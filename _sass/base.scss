@@ -65,6 +65,10 @@ header .header-title {
    align-items: center;
 }
 
+header .header-title a {
+  text-decoration: none;
+}
+
 header .header-title .separator {
    border-right: 1px solid #666;
    margin: 0 8px;
@@ -83,7 +87,7 @@ header .header-title h2 {
 }
 
 header h1 {
-  font-size: 24px;
+  font-size: 32px;
   line-height: 1.5;
   margin: 0;
   text-align: center;
